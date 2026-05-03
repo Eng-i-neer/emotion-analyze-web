@@ -29,3 +29,6 @@ desktop.ini
 venv/
 .venv/
 env/
+
+# 工具脚本
+scripts/
